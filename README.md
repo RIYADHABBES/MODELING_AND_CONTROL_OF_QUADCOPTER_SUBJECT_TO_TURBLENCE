@@ -1,0 +1,2 @@
+# MODELING_AND_CONTROL_OF_QUADCOPTER_SUBJECT_TO_TURBLENCE
+A 3d quadcopter simulator  (Matlab/Simulink)
