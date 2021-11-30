@@ -7,3 +7,5 @@ The PDF file contains the design of non-linear controllers (Backstepping - Feedb
 ```diff
 +The 3D simulator made by Matlab/Simulink will be provided soon :).
 ```
+
+<img src="https://github.com/RIYADHABBES/MODELING_AND_CONTROL_OF_QUADCOPTER_SUBJECT_TO_TURBLENCE/blob/Master/drone.gif" width="650" height="450"/>
